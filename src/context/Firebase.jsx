@@ -93,7 +93,7 @@ import {
 const FirebaseContext = createContext(null);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyASZYIwVpfkeiA8SEb1YINb5CWX0lL_Mrw",
+  // apiKey: "AIzaSyASZYIwVpfkeiA8SEb1YINb5CWX0lL_Mrw",
   authDomain: "bookify-e4679.firebaseapp.com",
   projectId: "bookify-e4679",
   storageBucket: "bookify-e4679.firebasestorage.app",
